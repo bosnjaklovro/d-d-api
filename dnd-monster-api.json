@@ -4,105 +4,239 @@
     "name": "Tarrasque",
     "type": "monstrosity",
     "challenge_rating": 30,
-    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30836/117/1000/1000/638063929008461547.png"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30836/117/1000/1000/638063929008461547.png",
+    "stats": {
+      "strength": 30,
+      "dexterity": 11,
+      "constitution": 30,
+      "intelligence": 3,
+      "wisdom": 11,
+      "charisma": 11
+    },
+    "abilities": ["Legendary Resistance", "Reflective Carapace", "Multiattack"]
   },
   {
     "index": "lich",
     "name": "Lich",
     "type": "undead",
     "challenge_rating": 21,
-    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30832/378/1000/1000/638063837085902470.png"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30832/378/1000/1000/638063837085902470.png",
+    "stats": {
+      "strength": 11,
+      "dexterity": 16,
+      "constitution": 16,
+      "intelligence": 20,
+      "wisdom": 14,
+      "charisma": 16
+    },
+    "abilities": ["Paralyzing Touch", "Legendary Resistance", "Spellcasting"]
   },
   {
     "index": "owlbear",
     "name": "Owlbear",
     "type": "monstrosity",
     "challenge_rating": 3,
-    "image_url": "https://www.dndbeyond.com/monsters/16975-owlbear"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30834/185/1000/1000/638063883093825018.png",
+    "stats": {
+      "strength": 20,
+      "dexterity": 12,
+      "constitution": 17,
+      "intelligence": 3,
+      "wisdom": 12,
+      "charisma": 7
+    },
+    "abilities": ["Keen Sight and Smell", "Multiattack"]
   },
   {
     "index": "goblin",
     "name": "Goblin",
     "type": "humanoid",
     "challenge_rating": 0.25,
-    "image_url": "https://www.dndbeyond.com/monsters/16907-goblin"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30783/955/1000/1000/638062024584880857.png",
+    "stats": {
+      "strength": 8,
+      "dexterity": 14,
+      "constitution": 10,
+      "intelligence": 10,
+      "wisdom": 8,
+      "charisma": 8
+    },
+    "abilities": ["Nimble Escape"]
   },
   {
     "index": "mimic",
     "name": "Mimic",
     "type": "monstrosity",
     "challenge_rating": 2,
-    "image_url": "https://www.dndbeyond.com/monsters/16957-mimic"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30833/408/1000/1000/638063863232165584.png",
+    "stats": {
+      "strength": 17,
+      "dexterity": 12,
+      "constitution": 15,
+      "intelligence": 5,
+      "wisdom": 13,
+      "charisma": 8
+    },
+    "abilities": ["Adhesive", "False Appearance", "Grappler"]
   },
   {
     "index": "kraken",
     "name": "Kraken",
     "type": "monstrosity",
     "challenge_rating": 23,
-    "image_url": "https://www.dndbeyond.com/monsters/16940-kraken"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30832/215/1000/1000/638063833096065593.png",
+    "stats": {
+      "strength": 30,
+      "dexterity": 11,
+      "constitution": 25,
+      "intelligence": 22,
+      "wisdom": 18,
+      "charisma": 20
+    },
+    "abilities": ["Freedom of Movement", "Ink Cloud", "Lightning Storm"]
   },
   {
     "index": "medusa",
     "name": "Medusa",
     "type": "monstrosity",
     "challenge_rating": 6,
-    "image_url": "https://www.dndbeyond.com/monsters/16954-medusa"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30833/355/1000/1000/638063862056716335.png",
+    "stats": {
+      "strength": 10,
+      "dexterity": 15,
+      "constitution": 16,
+      "intelligence": 12,
+      "wisdom": 13,
+      "charisma": 15
+    },
+    "abilities": ["Petrifying Gaze", "Snake Hair"]
   },
   {
     "index": "beholder",
     "name": "Beholder",
     "type": "aberration",
     "challenge_rating": 13,
-    "image_url": "https://vsdebating.fandom.com/wiki/Beholder_%28D%26D%29"
+    "image_url": "https://static.wikia.nocookie.net/vsdebating/images/2/26/Beholder_Transparent.png/revision/latest?cb=20180204031257",
+    "stats": {
+      "strength": 10,
+      "dexterity": 14,
+      "constitution": 18,
+      "intelligence": 17,
+      "wisdom": 15,
+      "charisma": 17
+    },
+    "abilities": ["Antimagic Cone", "Eye Rays", "Legendary Actions"]
   },
   {
     "index": "basilisk",
     "name": "Basilisk",
     "type": "monstrosity",
     "challenge_rating": 3,
-    "image_url": "https://www.dndbeyond.com/monsters/16801-basilisk"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30761/974/1000/1000/638061102119934833.png",
+    "stats": {
+      "strength": 16,
+      "dexterity": 8,
+      "constitution": 15,
+      "intelligence": 2,
+      "wisdom": 8,
+      "charisma": 7
+    },
+    "abilities": ["Petrifying Gaze", "Bite"]
   },
   {
     "index": "vampire",
     "name": "Vampire",
     "type": "undead",
     "challenge_rating": 13,
-    "image_url": "https://www.dndbeyond.com/monsters/17043-vampire"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30836/365/1000/1000/638063935245277290.png",
+    "stats": {
+      "strength": 18,
+      "dexterity": 18,
+      "constitution": 18,
+      "intelligence": 17,
+      "wisdom": 15,
+      "charisma": 18
+    },
+    "abilities": ["Shapechanger", "Legendary Resistance", "Regeneration"]
   },
   {
     "index": "giant-spider",
     "name": "Giant Spider",
     "type": "beast",
     "challenge_rating": 1,
-    "image_url": "https://www.dndbeyond.com/monsters/16895-giant-spider"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30849/299/1000/1000/638064499038216933.png",
+    "stats": {
+      "strength": 14,
+      "dexterity": 16,
+      "constitution": 12,
+      "intelligence": 2,
+      "wisdom": 11,
+      "charisma": 4
+    },
+    "abilities": ["Web Sense", "Web Walker", "Bite"]
   },
   {
     "index": "gelatinous-cube",
     "name": "Gelatinous Cube",
     "type": "ooze",
     "challenge_rating": 2,
-    "image_url": "https://www.dndbeyond.com/monsters/16869-gelatinous-cube"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30834/149/1000/1000/638063882505895317.png",
+    "stats": {
+      "strength": 14,
+      "dexterity": 3,
+      "constitution": 20,
+      "intelligence": 1,
+      "wisdom": 6,
+      "charisma": 1
+    },
+    "abilities": ["Engulf", "Transparent", "Pseudopod"]
   },
   {
     "index": "dragon-turtle",
     "name": "Dragon Turtle",
     "type": "dragon",
     "challenge_rating": 17,
-    "image_url": "https://forgottenrealms.fandom.com/wiki/Tortle"
+    "image_url": "https://static.wikia.nocookie.net/forgottenrealms/images/7/72/Tortle-5e.png/revision/latest?cb=20170928140158",
+    "stats": {
+      "strength": 25,
+      "dexterity": 10,
+      "constitution": 20,
+      "intelligence": 10,
+      "wisdom": 12,
+      "charisma": 12
+    },
+    "abilities": ["Steam Breath", "Tail", "Bite"]
   },
   {
     "index": "gnoll",
     "name": "Gnoll",
     "type": "humanoid",
     "challenge_rating": 0.5,
-    "image_url": "https://www.dndbeyond.com/monsters/16904-gnoll"
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30784/505/1000/1000/638062044385041691.png",
+    "stats": {
+      "strength": 14,
+      "dexterity": 12,
+      "constitution": 11,
+      "intelligence": 6,
+      "wisdom": 10,
+      "charisma": 7
+    },
+    "abilities": ["Rampage"]
   },
   {
     "index": "hell-hound",
     "name": "Hell Hound",
     "type": "fiend",
     "challenge_rating": 3,
-    "image_url": "https://www.dndbeyond.com/monsters/16838-death-dog
-    "
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30849/289/1000/1000/638064498770586789.png",
+    "stats": {
+      "strength": 17,
+      "dexterity": 12,
+      "constitution": 14,
+      "intelligence": 6,
+      "wisdom": 13,
+      "charisma": 6
+    },
+    "abilities": ["Fire Breath", "Pack Tactics"]
   }
 ]
