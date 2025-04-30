@@ -1,0 +1,108 @@
+[
+  {
+    "index": "tarrasque",
+    "name": "Tarrasque",
+    "type": "monstrosity",
+    "challenge_rating": 30,
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30836/117/1000/1000/638063929008461547.png"
+  },
+  {
+    "index": "lich",
+    "name": "Lich",
+    "type": "undead",
+    "challenge_rating": 21,
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30832/378/1000/1000/638063837085902470.png"
+  },
+  {
+    "index": "owlbear",
+    "name": "Owlbear",
+    "type": "monstrosity",
+    "challenge_rating": 3,
+    "image_url": "https://www.dndbeyond.com/monsters/16975-owlbear"
+  },
+  {
+    "index": "goblin",
+    "name": "Goblin",
+    "type": "humanoid",
+    "challenge_rating": 0.25,
+    "image_url": "https://www.dndbeyond.com/monsters/16907-goblin"
+  },
+  {
+    "index": "mimic",
+    "name": "Mimic",
+    "type": "monstrosity",
+    "challenge_rating": 2,
+    "image_url": "https://www.dndbeyond.com/monsters/16957-mimic"
+  },
+  {
+    "index": "kraken",
+    "name": "Kraken",
+    "type": "monstrosity",
+    "challenge_rating": 23,
+    "image_url": "https://www.dndbeyond.com/monsters/16940-kraken"
+  },
+  {
+    "index": "medusa",
+    "name": "Medusa",
+    "type": "monstrosity",
+    "challenge_rating": 6,
+    "image_url": "https://www.dndbeyond.com/monsters/16954-medusa"
+  },
+  {
+    "index": "beholder",
+    "name": "Beholder",
+    "type": "aberration",
+    "challenge_rating": 13,
+    "image_url": "https://vsdebating.fandom.com/wiki/Beholder_%28D%26D%29"
+  },
+  {
+    "index": "basilisk",
+    "name": "Basilisk",
+    "type": "monstrosity",
+    "challenge_rating": 3,
+    "image_url": "https://www.dndbeyond.com/monsters/16801-basilisk"
+  },
+  {
+    "index": "vampire",
+    "name": "Vampire",
+    "type": "undead",
+    "challenge_rating": 13,
+    "image_url": "https://www.dndbeyond.com/monsters/17043-vampire"
+  },
+  {
+    "index": "giant-spider",
+    "name": "Giant Spider",
+    "type": "beast",
+    "challenge_rating": 1,
+    "image_url": "https://www.dndbeyond.com/monsters/16895-giant-spider"
+  },
+  {
+    "index": "gelatinous-cube",
+    "name": "Gelatinous Cube",
+    "type": "ooze",
+    "challenge_rating": 2,
+    "image_url": "https://www.dndbeyond.com/monsters/16869-gelatinous-cube"
+  },
+  {
+    "index": "dragon-turtle",
+    "name": "Dragon Turtle",
+    "type": "dragon",
+    "challenge_rating": 17,
+    "image_url": "https://forgottenrealms.fandom.com/wiki/Tortle"
+  },
+  {
+    "index": "gnoll",
+    "name": "Gnoll",
+    "type": "humanoid",
+    "challenge_rating": 0.5,
+    "image_url": "https://www.dndbeyond.com/monsters/16904-gnoll"
+  },
+  {
+    "index": "hell-hound",
+    "name": "Hell Hound",
+    "type": "fiend",
+    "challenge_rating": 3,
+    "image_url": "https://www.dndbeyond.com/monsters/16838-death-dog
+    "
+  }
+]
