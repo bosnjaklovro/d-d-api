@@ -1,0 +1,182 @@
+[
+  {
+    "index": "longsword",
+    "name": "Longsword",
+    "type": "weapon",
+    "weight": 3,
+    "usage": "Melee weapon, versatile",
+    "effects": "1d8 slashing damage (1d10 if two-handed)",
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/30761/834/1000/1000/638061095632921781.png"
+  },
+  {
+    "index": "shortbow",
+    "name": "Shortbow",
+    "type": "weapon",
+    "weight": 2,
+    "usage": "Ranged weapon, requires arrows",
+    "effects": "1d6 piercing damage, range 80/320",
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/45205/696/1000/1000/638657413849965727.png"
+  },
+  {
+    "index": "healing-potion",
+    "name": "Potion of Healing",
+    "type": "potion",
+    "weight": 0.5,
+    "usage": "Consumed as an action",
+    "effects": "Restores 2d4+2 hit points",
+    "image_url": "https://www.dndbeyond.com/attachments/11/656/potion-of-healing.jpg"
+  },
+  {
+    "index": "torch",
+    "name": "Torch",
+    "type": "utility",
+    "weight": 1,
+    "usage": "Provides light for 1 hour",
+    "effects": "Illuminates 20ft bright, 20ft dim",
+    "image_url": "https://lh4.googleusercontent.com/proxy/-IW40VVxbO-McvLCPgY1GaWAS7fxdvS1D27dcyvJSQfX_NHrq8FooolpdnM36Gf5NzMBfro5W9PqHxkceSS6nqPRAsmOFLWXGj_KgSS989it2no6pg"
+  },
+  {
+    "index": "chainmail",
+    "name": "Chain Mail",
+    "type": "armor",
+    "weight": 55,
+    "usage": "Heavy armor, requires proficiency",
+    "effects": "AC 16, Disadvantage on Stealth",
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/45205/566/1000/1000/638657413638358768.png"
+  },
+  {
+    "index": "shield",
+    "name": "Shield",
+    "type": "armor",
+    "weight": 6,
+    "usage": "Held in one hand",
+    "effects": "+2 bonus to AC",
+    "image_url": "https://static1.squarespace.com/static/59aa8bee197aea4ad67f52ae/59aac4a1f5e23155dc786b05/59ab2a78b8a79bd67b1a3426/1504485652170/?format=1500w"
+  },
+  {
+    "index": "dagger",
+    "name": "Dagger",
+    "type": "weapon",
+    "weight": 1,
+    "usage": "Melee or thrown (20/60)",
+    "effects": "1d4 piercing damage, finesse",
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/45205/502/1000/1000/638657413530924210.png"
+  },
+  {
+    "index": "backpack",
+    "name": "Backpack",
+    "type": "container",
+    "weight": 5,
+    "usage": "Carries up to 30 lbs of gear",
+    "effects": "Storage for adventuring supplies",
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/7/239/1000/1000/636284737702530626.jpeg"
+  },
+  {
+    "index": "spellbook",
+    "name": "Spellbook",
+    "type": "tool",
+    "weight": 3,
+    "usage": "Used by wizards to prepare spells",
+    "effects": "Holds known wizard spells",
+    "image_url": "https://play-lh.googleusercontent.com/TpzktC1bf3XM2J6UNMUpjqGzBVn1gM_-8PawTMrSvh3ogJmdvGCxevmZrHTKDIumBw=w240-h480-rw"
+  },
+  {
+    "index": "grappling-hook",
+    "name": "Grappling Hook",
+    "type": "tool",
+    "weight": 4,
+    "usage": "Thrown or tied to rope",
+    "effects": "Assists with climbing obstacles",
+    "image_url": "https://static.wikia.nocookie.net/atlas_gamepedia_en/images/3/3d/Grappling_Hook.png/revision/latest?cb=20181229235044"
+  },
+  {
+    "index": "rope-hempen",
+    "name": "Hempen Rope (50 ft)",
+    "type": "tool",
+    "weight": 10,
+    "usage": "Ties, climbs, traps",
+    "effects": "Supports up to 500 lbs",
+    "image_url": "https://www.thievesguild.cc/images/equip/Rope.png"
+  },
+  {
+    "index": "crossbow-light",
+    "name": "Light Crossbow",
+    "type": "weapon",
+    "weight": 5,
+    "usage": "Ranged weapon, loading",
+    "effects": "1d8 piercing damage, range 80/320",
+    "image_url": "https://files.d20.io/images/406426042/qlMNlNefYALtahnKxpQ7sQ/original.png?1724441798"
+  },
+  {
+    "index": "rations",
+    "name": "Rations (1 day)",
+    "type": "consumable",
+    "weight": 2,
+    "usage": "Consumed during a long rest",
+    "effects": "Prevents exhaustion",
+    "image_url": "https://ih1.redbubble.net/image.1309047319.5907/mo,large,flatlay,product_square,600x600.u1.webp"
+  },
+  {
+    "index": "waterskin",
+    "name": "Waterskin",
+    "type": "container",
+    "weight": 5,
+    "usage": "Holds up to 4 pints of liquid",
+    "effects": "Hydration during travel",
+    "image_url": "https://uploads.worldanvil.com/uploads/images/d30f0dfa6aa44e0bcf7838bb53e4605d.png"
+  },
+  {
+    "index": "crowbar",
+    "name": "Crowbar",
+    "type": "tool",
+    "weight": 5,
+    "usage": "Used to pry open doors and crates",
+    "effects": "Advantage on Strength checks to force open objects",
+    "image_url": "https://static.wikia.nocookie.net/criminality/images/5/5f/New_crowbar.png/revision/latest?cb=20220407221156"
+  },
+  {
+    "index": "scroll-fireball",
+    "name": "Scroll of Fireball",
+    "type": "magic item",
+    "weight": 0.1,
+    "usage": "Cast Fireball spell (DC 15)",
+    "effects": "Deals 8d6 fire damage in 20 ft radius",
+    "image_url": "https://i.imgur.com/1bXTzpH.png"
+  },
+  {
+    "index": "boots-elvenkind",
+    "name": "Boots of Elvenkind",
+    "type": "wondrous item",
+    "weight": 2,
+    "usage": "Worn on feet",
+    "effects": "Advantage on Stealth checks when moving silently",
+    "image_url": "https://files.d20.io/images/414910846/vZVjWEHNtlRrrbB7oZX1rw/original.png?1729889933"
+  },
+  {
+    "index": "bag-of-holding",
+    "name": "Bag of Holding",
+    "type": "wondrous item",
+    "weight": 15,
+    "usage": "Storage",
+    "effects": "Holds up to 500 lbs in a pocket dimension",
+    "image_url": "https://static.wikia.nocookie.net/forgottenrealms/images/7/7b/Bag_of_holding_5e.png/revision/latest?cb=20241114163936"
+  },
+  {
+    "index": "lantern-bullseye",
+    "name": "Bullseye Lantern",
+    "type": "utility",
+    "weight": 2,
+    "usage": "Lights a 60-foot cone",
+    "effects": "Burns 6 hours per pint of oil",
+    "image_url": "https://www.dndbeyond.com/avatars/thumbnails/7/281/1000/1000/636284748401322740.jpeg"
+  },
+  {
+    "index": "ring-protection",
+    "name": "Ring of Protection",
+    "type": "magic item",
+    "weight": 0.1,
+    "usage": "Worn on finger",
+    "effects": "+1 bonus to AC and saving throws",
+    "image_url": "https://files.d20.io/images/414419227/OB-Wr4GiBN5POqGszahfAQ/original.png"
+  }
+]
